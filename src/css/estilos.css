@@ -7,7 +7,7 @@ body {
 	font-family: "Poppins", sans-serif;
 	margin: 0 auto;
 	max-width: 1120px;
-	background: linear-gradient(150deg, #164974,  #000000);
+	background: linear-gradient(150deg, #164974, #000000);
 	background-size: 120% 120%;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 .cabecalho .logo {
-    background: linear-gradient(to right, #164974, #95c0c6, #fdd29f );    
+	background: linear-gradient(to right, #164974, #95c0c6, #fdd29f);
 	width: 65px;
 	height: 65px;
 	border-radius: 50%;
@@ -32,8 +32,8 @@ body {
 }
 
 .cabecalho a:hover .logo {
-    color: #164974;
-    border: 2px solid #164974;
+	color: #164974;
+	border: 2px solid #164974;
 }
 
 .cabecalho .menu li a {
@@ -44,7 +44,7 @@ body {
 }
 
 .cabecalho .menu li a:hover {
-    background-color: #164974;
+	background-color: #164974;
 	color: #fff;
 	border-radius: 50px;
 }
@@ -70,12 +70,14 @@ body {
 	font-family: "Raleway", sans-serif;
 	font-size: 45px;
 	margin-bottom: 20px;
+	color: #ffffff !important;
 }
 
 .home .informacoes p {
 	font-family: "Raleway", sans-serif;
 	font-size: 24px;
 	margin-bottom: 20px;
+	color: #ffffff !important;
 }
 
 .home .redes-sociais {
@@ -95,8 +97,8 @@ body {
 }
 
 .home .redes-sociais a i:hover {
-    color: #fdd29f;
-    border: 1px solid #fdd29f;
+	color: #fdd29f;
+	border: 1px solid #fdd29f;
 	transform: scale(1.1);
 }
 
@@ -108,7 +110,7 @@ body {
 .home .container-foto img {
 	width: 100%;
 	border-radius: 50%;
-    background: linear-gradient(to right, #fdd29f, #95c0c6, #164974);
+	background: linear-gradient(to right, #fdd29f, #95c0c6, #164974);
 }
 
 .home .foto.sombra-interna {
@@ -195,7 +197,7 @@ body {
 }
 
 .projetos .btn-mostrar-projetos:hover {
-    background-color: #164974;
+	background-color: #164974;
 	transition: 0.3s;
 }
 
